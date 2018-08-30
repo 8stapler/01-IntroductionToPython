@@ -68,10 +68,10 @@ DONE: 2.
 #   Look at the Run window to be sure that your string printed as expected.
 #
 ###############################################################################
-print('3,607 and 34,227')
+print(3607*34227)
 ###############################################################################
 #
-# TODO: 4.
+# DONE: 4.
 #   Add yet another   print   statement.
 #   This one should print the *product* of 3,607 and 34,227.
 #   Let the computer do the arithmetic for you (no calculators!).
@@ -85,7 +85,7 @@ print('3,607 and 34,227')
 
 ###############################################################################
 #
-# TODO: 5.
+# DONE: 5.
 #   Look at the list of files in the Project window (to the left).  Note that
 #   this file (m2_todo_and_commit_push.py) is now displayed in BLUE.
 #
